@@ -7,6 +7,6 @@ BACKGROUND
 Items requested
 1) 7 Day forecast (data pull. item completed pending migration and testing)
 2) Historical data for averages (dating back as long as we can get). Item completed as it will be manual yearly download due to restriction of download capacity (1000 processing utilization)
-3) Alert warnings for Winter Storm Warnings, Blizzard Warnings, Severe Thunderstorm Warnings, and Tornado Warnings. All U.S (api.weather.gov)
+3) Alert warnings for Winter Storm Warnings, Blizzard Warnings, Severe Thunderstorm Warnings, and Tornado Warnings. All U.S (api.weather.gov) (copmleted but likely want to cut this down)
 4) Item #3 will be brought into a staging table and then have production table to keep active ones (api.weather.gov)
 5) Important data from the RSS feeds on this site https://www.spc.noaa.gov/aboutrss.html
